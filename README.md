@@ -1,6 +1,8 @@
 # cincinnati-crime-project
 Analyzing crime of Cincinnati between 2010-2017. A project I picked up to practice and improve my skills with python, pandas, etc.
 
+Note: link for google fusion tables (map) of all ~250k geocoded points provided [here](https://www.google.com/fusiontables/DataSource?docid=128R9L0Y7mnm4wndUE8aSQmcKqnLJ_4-uVRap5hk2)
+
 ## Scope and Implementation
 
 The original goal was to map every reported crime in the dataset onto a map and create a composite heatmap / animated heatmap that shows changes in crime, as well as other misc. charts and graphs to explore changes and trends with crime in Cincinnati.
